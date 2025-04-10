@@ -7,8 +7,7 @@ This repository contains the details and the code for the MIPS32 ISA based RISC 
 ▫️ [Instruction Encoding](https://github.com/arpit306/5-Stage-Pipelined-MIPS32-RISC-Processor-Design-on-Verilog#%EF%B8%8F-instruction-encoding)  
 ▫️ [Stages of Execution](https://github.com/arpit306/5-Stage-Pipelined-MIPS32-RISC-Processor-Design-on-Verilog#%EF%B8%8F-stages-of-execution)  
 ▫️ [Pipelined DataPath](https://github.com/arpit306/5-Stage-Pipelined-MIPS32-RISC-Processor-Design-on-Verilog#%EF%B8%8F-pipelined-datapath)  
-▫️ [Known issues and problems](https://github.com/arpit306/5-Stage-Pipelined-MIPS32-RISC-Processor-Design-on-Verilog#%EF%B8%8F-known-problems-and-issues)  
-▫️ [References](https://github.com/arpit306/5-Stage-Pipelined-MIPS32-RISC-Processor-Design-on-Verilog#%EF%B8%8F-references)  
+▫️ [Known issues and problems](https://github.com/arpit306/5-Stage-Pipelined-MIPS32-RISC-Processor-Design-on-Verilog#%EF%B8%8F-known-problems-and-issues)    
 ## ▫️ MIPS32  
 - 32 x 32 bit GPRs [R0 to R31]  
 - R0 hardwired to logic0  
